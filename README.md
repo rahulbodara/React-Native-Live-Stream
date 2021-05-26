@@ -3,7 +3,7 @@
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the process with the following:
 ```
-git clone https://github.com/ajaybodara/React-Native-Live-Stream.git
+git clone https://github.com/rahulbodara/React-Native-Live-Stream.git
 cd React-Native-Live-Stream
 npm install
 react-native run-android for android
